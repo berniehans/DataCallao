@@ -51,7 +51,7 @@ El proyecto se divide en 5 notebooks secuenciales que representan las fases de i
 ```text
 ProjectEvo-Callao-Safety/
 │
-├── data/                   # Datos crudos (no incluidos por privacidad)
+├── data/                   # Datos crudos
 ├── data_processed/         # Embeddings de BERT fragmentados (.pt)
 ├── models/                 # Artefactos entrenados
 │   ├── ga_feature_mask.pt  # Máscara binaria (92 features)
